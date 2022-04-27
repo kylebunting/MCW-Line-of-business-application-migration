@@ -85,7 +85,7 @@
         }
     },
     "variables": {
-        "baseUri": "https://openhackpublic.blob.core.windows.net/lob-migration/sept-2021",
+        "baseUri": "https://raw.githubusercontent.com/microsoft/MCW-Line-of-business-application-migration/bugfix/issue95/Hands-on%20lab/Resources/",
         "HostRG": "[concat(parameters('resourceGroupBaseName'), 'HostRG')]",
         "hostUri": "[concat(variables('baseUri'),'/SmartHotelHost.json')]",
         "LZRG": "[concat(parameters('resourceGroupBaseName'), 'RG')]",

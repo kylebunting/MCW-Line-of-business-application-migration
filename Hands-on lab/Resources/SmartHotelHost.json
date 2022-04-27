@@ -37,9 +37,9 @@
         "dmsPrefix": "10.1.0.0/16",
         "dmsSubnetPrefix": "10.1.0.0/24",
         "dmsSubnetName": "DMS",
-        "customScriptFolder": "./sept-2021/",
+        "customScriptFolder": "./customscripts/",
         "customScriptUriScriptFileName": "BootstrapSmartHotelHost.ps1",
-        "customScriptUri": "https://openhackpublic.blob.core.windows.net/lob-migration/sept-2021/BootstrapSmartHotelHost.ps1"
+        "customScriptUri": "https://raw.githubusercontent.com/microsoft/MCW-Line-of-business-application-migration/bugfix/issue95/Hands-on%20lab/Resources/BootstrapSmartHotelHost.ps1"
     },
     "resources": [
         {
